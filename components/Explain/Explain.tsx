@@ -71,7 +71,7 @@ export const Explain = ({ children }: ExplainProps) => {
           <output>Thinking&hellip;</output>
         ) : (
           <a href="#" onClick={submit}>
-            Huh?
+            Wait, what?
           </a>
         )}
       </div>

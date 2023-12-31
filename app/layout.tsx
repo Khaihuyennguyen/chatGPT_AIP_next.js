@@ -1,16 +1,24 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { Instrument_Serif, Xanh_Mono } from 'next/font/google'
+import { Roboto, Instrument_Serif, Xanh_Mono } from 'next/font/google'
 
 // adding two lovely font from Google Fonts
 // https://fonts.google.com/specimen/Instrument+Serif
 // https://fonts.google.com/specimen/Xanh+Mono
-const serif = Instrument_Serif({
+
+const serif = Roboto({
   subsets: ['latin'],
   weight: '400',
   style: ['normal', 'italic'],
   variable: '--font-serif',
 })
+
+// const serif = Instrument_Serif({
+//   subsets: ['latin'],
+//   weight: '400',
+//   style: ['normal', 'italic'],
+//   variable: '--font-serif',
+// })
 
 const mono = Xanh_Mono({
   subsets: ['latin'],

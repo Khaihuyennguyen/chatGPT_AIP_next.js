@@ -4,7 +4,7 @@
 
   --color-foreground: #333333;
   --color-secondary-text: #727870;
-  --color-background: #fffbf0;
+  --color-background: #ffffff;
   --color-block-background: #ffffff;
   --color-border: #089755;
   --color-highlight: #089755;
@@ -23,7 +23,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --color-foreground: #fffbf0;
-    --color-secondary-text: #727870;
+    --color-secondary-text: #2d571f;
     --color-background: #111118;
     --color-block-background: #010103;
   }
