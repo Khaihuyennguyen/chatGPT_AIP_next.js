@@ -1,6 +1,6 @@
-# AI Integration for the Web: ChatGPT Workshop starter pack
+# AI Integration for the Web: ChatGPT 
 
-Hello! This is a starter pack for the SuperHi AI Integration for the Web: ChatGPT workshop by Rik Lomas. To run this project:
+Hello! To run this project:
 
 - Open this project in a code editor, such as VS Code, if you haven't done already
 - Open a terminal to run code within this project and go to the project's root. If you're using VS Code, you can do this by opening up a new terminal in the menu (Terminal > New Terminal)
@@ -11,7 +11,7 @@ Hello! This is a starter pack for the SuperHi AI Integration for the Web: ChatGP
   - If you are using NPM, run `npm run dev`
   - If you are using Yarn, run `yarn dev`
 
-If you are having issues opening this project, drop us an email at hi@superhi.com or jump into our [Discord](https://discord.gg/2P4ft3hv) and ask away!
+
 
 ## API keys
 
